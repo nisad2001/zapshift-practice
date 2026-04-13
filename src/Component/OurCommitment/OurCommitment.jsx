@@ -4,7 +4,7 @@ const OurCommitment = () => {
   return (
     <div className='max-w-[1280px] mx-auto'>
       <div className='flex justify-center items-center bg-[#FFFFFF] py-8 pl-8 rounded-4xl mb-6'>
-        <img src='/public/asset/live-tracking.png' alt='' />
+        <img src='/asset/live-tracking.png' alt='' />
         <div className='border-l-2 border-dotted border-gray-400 ml-12 '>
           <h1 className='ml-12 text-[#03373D] text-[24px] font-extrabold mb-4'>
             Live Parcel Tracking
@@ -17,7 +17,7 @@ const OurCommitment = () => {
         </div>
       </div>
       <div className='flex justify-center items-center bg-[#FFFFFF] py-8 pl-8 rounded-4xl mb-6'>
-        <img src='/public/asset/safe-delivery.png' alt='' />
+        <img src='/asset/safe-delivery.png' alt='' />
         <div className='border-l-2 border-dotted border-gray-400 ml-12 '>
           <h1 className='ml-12 text-[#03373D] text-[24px] font-extrabold mb-4'>
             100% Safe Delivery
@@ -30,7 +30,7 @@ const OurCommitment = () => {
         </div>
       </div>
       <div className='flex justify-center items-center bg-[#FFFFFF] py-8 pl-8 rounded-4xl'>
-        <img src='/public/asset/safe-delivery.png' alt='' />
+        <img src='/asset/safe-delivery.png' alt='' />
         <div className='border-l-2 border-dotted border-gray-400 ml-12 '>
           <h1 className='ml-12 text-[#03373D] text-[24px] font-extrabold mb-4'>
             100% Safe Delivery
